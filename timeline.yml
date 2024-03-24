@@ -1,0 +1,24 @@
+- anim: default
+  target: map1
+  scale: 1
+  coords: [0, 0]
+  
+- anim: zoom1
+  target: map1
+  scale: 2.5
+  coords: [20, 20]
+
+- anim: anim2
+  target: map1
+  scale: 2.5
+  coords: [90, 10]
+
+- anim: ujeza
+  target: map2
+  scale: 2
+  coords: [0, 30]
+
+- anim: default1
+  target: map2
+  scale: 1
+  coords: [0, 0]
