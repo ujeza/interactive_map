@@ -58,17 +58,17 @@
   scale: 1
   coords: [0,0]
 
-  - anim: zoom6
-    target: map4
-    scale: 2
-    coords: [70,20]
+- anim: zoom6
+  target: map4
+  scale: 2
+  coords: [70,20]
 
-  - anim: default5
+- anim: default5
   target: map4
   scale: 1
   coords: [0,0]
   
-  - anim: zoom7
-    target: map4
-    scale: 2
-    coords: [70,20]
+- anim: zoom7
+  target: map4
+  scale: 2
+  coords: [70,20]
