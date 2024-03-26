@@ -31,7 +31,7 @@
 - anim: zoom2
   target: map1
   scale: 6
-  coords: [40,40]
+  coords: [80,30]
 
 - anim: zoom3
   target: map1
