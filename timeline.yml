@@ -24,9 +24,9 @@
   coords: [0, 0]
   
 - anim: zoombottom
-  target: map1 
+  target: map1.1
   scale: 4
-  coords: [10, 65]
+  coords: [0, 75]
 
 - anim: zoom2
   target: map1
@@ -35,15 +35,15 @@
 
 - anim: zoom3
   target: map1
-  scale: 8
-  coords: [70,53]
+  scale: 13
+  coords: [72,53]
 
 - anim: zoom4
   target: map2
   scale: 2
   coords: [80,0]
 
-- anim: deafult3
+- anim: default3
   target: map3
   scale: 1
   coords: [0,0]
@@ -59,16 +59,31 @@
   coords: [0,0]
 
 - anim: zoom6
-  target: map4
-  scale: 2
-  coords: [70,20]
+  target: map3
+  scale: 1.5
+  coords: [120,50]
 
 - anim: default5
-  target: map4
+  target: map5
   scale: 1
   coords: [0,0]
   
 - anim: zoom7
-  target: map4
-  scale: 2
-  coords: [70,20]
+  target: map5
+  scale: 1.8
+  coords: [40,-20]
+
+- anim: zoom8
+  target: map5
+  scale: 1.8
+  coords: [40,90]
+
+- anim: default6
+  target: map6
+  scale: 1
+  coords: [0, 0]
+
+- anim: default7
+  target: map1.1
+  scale: 1
+  coords: [0, 0]
