@@ -35,7 +35,7 @@
 
 - anim: zoom3
   target: map1
-  scale: 13
+  scale: 10
   coords: [72,53]
 
 - anim: zoom4
@@ -85,5 +85,15 @@
 
 - anim: default7
   target: map1.1
+  scale: 1
+  coords: [0, 0]
+
+- anim: zoom9
+  target: map7
+  scale: 2
+  coords: [60, 50]
+
+- anim: default8
+  target: map7
   scale: 1
   coords: [0, 0]
