@@ -31,3 +31,7 @@ fetch('timeline.yml')
         const interactiveElements = document.querySelectorAll('.interactive');
         interactiveElements.forEach(element => observer.observe(element));
     });
+
+// ujeza addition
+
+
