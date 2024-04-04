@@ -139,3 +139,9 @@
   target: map13
   scale: 2.5
   coords: [50, 50]
+
+
+- anim: default14
+  target: map14
+  scale: 1
+  coords: [0, 0]
